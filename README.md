@@ -1,2 +1,1 @@
-# hiteshbellani
-this website portfolio is for my friend Hitesh Bellani.
+# vivekpatel19.github.io
